@@ -6,3 +6,5 @@ optimizationguide-pa.googleapis.com
 x1.c.lencr.org
 patorjk.com
 e10370.d.akamaiedge.net
+exp-tas.com
+lencr.org
