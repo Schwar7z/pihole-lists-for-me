@@ -6,7 +6,6 @@ tp-link.com
 *.yahoo.com
 *.roku.com
 *.bing.com
-*.trafficmanager.net
 xboxservices.com
 mshome.net
 *.adobe.com
