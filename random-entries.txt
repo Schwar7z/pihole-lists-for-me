@@ -1,6 +1,4 @@
 tsfe.trafficshaping.dsp.mp.microsoft.com
-glb.cws.prod.dcat.dsp.trafficmanager.net
-wu-b-net.trafficmanager.net
 edge-microsoft-com.dual-a-0036.a-msedge.net
 optimizationguide-pa.googleapis.com
 x1.c.lencr.org
